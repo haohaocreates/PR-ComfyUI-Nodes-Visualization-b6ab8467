@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-nodes-visualization"
-description = ""
+description = "2400+节点可视化 Visualization | Collection of ComfyUI Custom Nodes"
 version = "1.0.0"
 license = "LICENSE"
 
